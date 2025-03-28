@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "maxproc",
+    "precio": 132,
+    "cantidad": 15
+  },
+  {
+    "nombre": "procMax",
+    "precio": 1222,
+    "cantidad": 15
+  },
+  {
+    "nombre": "hola que hace",
+    "precio": 1,
+    "cantidad": 32
+  }
+]
